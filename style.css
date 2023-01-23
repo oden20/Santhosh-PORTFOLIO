@@ -1,0 +1,121 @@
+body{
+    background-color:#CFFDE1;
+}
+
+
+.box4 ,.box2 {
+    background-color:#FED049;
+}
+.box3 {
+    background-color:#CFFDE1;
+}
+.box5{
+    background-color: #68B984;
+}
+
+.navlink {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+.boxy{
+    margin-top: 50px;
+    padding-top: 200px;
+    
+    
+    text-align: center;
+    font-family:cursive;
+    background-image: url(image/gif1.gif);
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    
+    background-size: cover;
+    
+}
+.box1{
+    padding-bottom: 60px;
+    
+    color: #fff;
+    
+    
+}
+#prof{
+    padding: 10px,0px;
+    margin: 5px,2px;
+}
+.boxy2{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.pic2{
+    border-radius: 100%;
+    padding-top: 15px;
+    margin-bottom: 10px;
+}
+.profile{
+    padding-top: 5px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+.box3{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.carousel-inner{
+    background-color: #68B984;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    
+
+}
+.hel{
+    color:black;
+    size: 15px;
+}
+.hed{
+    font-family:Arial, Helvetica, sans-serif;
+    size: 5px;
+    padding-top: 50px;
+}
+.gifi1, .gifi2{
+    
+    padding-top: 20px;
+}
+.ben{
+    padding-top: 20px   ;
+    width: 60%;
+    margin-left: 20%;
+    
+}
+.proj{
+    width: 60%;
+    
+    padding-top: 40px;
+}
+
+.content{
+    
+    padding-top: 50px;
+    padding-left: 10px;
+}
+.box4{
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.send{
+    margin-top: 20px;
+}
+
+.cum{
+    padding: 10px;
+    margin: 10px;
+}
+.cu{
+    text-align: center;
+    padding-right: 10px;
+
+}
